@@ -518,6 +518,5 @@ export const mockData = {
     }
   ],
   "title": "觅悦导航",
-  "search": "google",
-  "_fileSha": "4084257bae02a1ea660e0296be52ad3935562b74"
+  "search": "google"
 }
