@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1776764876837",
+          "name": "AI破限提示词",
+          "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming/tree/main/Jailbreak-Guide",
+          "description": "",
+          "icon": ""
         }
       ]
     },
