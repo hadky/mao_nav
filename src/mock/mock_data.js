@@ -515,6 +515,21 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1776755130151",
+      "icon": "📁",
+      "name": "域名",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1776755185124",
+          "name": "免费域名",
+          "url": "https://my.dnshe.com/index.php?m=domain_hub",
+          "description": "https://my.dnshe.com/index.php?m=domain_hub",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "觅悦导航",
