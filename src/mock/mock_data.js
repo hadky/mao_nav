@@ -412,6 +412,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1776870456944",
+          "name": "渗透测试辅助平台",
+          "url": "https://www.ddosi.org/payloader/",
+          "description": "渗透测试辅助平台",
+          "icon": ""
         }
       ]
     },
@@ -534,6 +541,35 @@ export const mockData = {
           "name": "免费域名",
           "url": "https://my.dnshe.com/index.php?m=domain_hub",
           "description": "https://my.dnshe.com/index.php?m=domain_hub",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1776869877494",
+      "icon": "📁",
+      "name": "AI Skills",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1776869899879",
+          "name": "Hacker技能",
+          "url": "https://github.com/yaklang/hack-skills/blob/main/README_CN.md",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1776870025438",
+          "name": "设计技能",
+          "url": "https://github.com/alchaincyf/huashu-design",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1776870104446",
+          "name": "Codex 调教",
+          "url": "https://linux.do/t/topic/1413296",
+          "description": "Codex 调教成趁手兵器的——配置分享 + 实战演示",
           "icon": ""
         }
       ]
