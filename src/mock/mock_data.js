@@ -211,6 +211,13 @@ export const mockData = {
           "url": "https://mail.chatgpt.org.uk/",
           "description": "免费邮箱站点",
           "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
+        },
+        {
+          "id": "site-1777042526452",
+          "name": "无线调试",
+          "url": "https://github.com/W0rthlessS0ul/nRF24_jammer",
+          "description": "",
+          "icon": ""
         }
       ]
     },
