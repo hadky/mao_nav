@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1779109544860",
+          "name": "SKills GitHub",
+          "url": "https://github.com/YYH211/Claude-meta-skill/tree/main",
+          "description": "SKills技能大全",
+          "icon": ""
         }
       ]
     },
