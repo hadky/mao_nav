@@ -104,6 +104,34 @@ export const mockData = {
           "url": "https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming/tree/main/Jailbreak-Guide",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1783893589850",
+          "name": "Cli-Proxy-API-Management-Center",
+          "url": "https://github.com/router-for-me/Cli-Proxy-API-Management-Center",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1783893613649",
+          "name": "sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1783893645778",
+          "name": "sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1783893669586",
+          "name": "Metapi",
+          "url": "https://metapi.cita777.me/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
