@@ -121,8 +121,8 @@ export const mockData = {
         },
         {
           "id": "site-1783893645778",
-          "name": "sub2api",
-          "url": "https://github.com/Wei-Shaw/sub2api",
+          "name": "newapi",
+          "url": "https://github.com/QuantumNous/new-api",
           "description": "",
           "icon": ""
         },
