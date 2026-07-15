@@ -132,6 +132,13 @@ export const mockData = {
           "url": "https://metapi.cita777.me/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1784106789264",
+          "name": "账号转换",
+          "url": "https://github.com/gtxx3600/GPTSession2CPAandSub2API",
+          "description": "https://tools.doghubx.top/session/",
+          "icon": ""
         }
       ]
     },
