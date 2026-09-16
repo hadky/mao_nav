@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://github.com/YYH211/Claude-meta-skill/tree/main",
           "description": "SKills技能大全",
           "icon": ""
+        },
+        {
+          "id": "site-1789558472031",
+          "name": "codex破",
+          "url": "https://yynxxxxx.github.io/Codex-X/#hero",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -619,6 +626,13 @@ export const mockData = {
           "name": "Codex 调教",
           "url": "https://linux.do/t/topic/1413296",
           "description": "Codex 调教成趁手兵器的——配置分享 + 实战演示",
+          "icon": ""
+        },
+        {
+          "id": "site-1789558426968",
+          "name": "codex破限",
+          "url": "https://yynxxxxx.github.io/Codex-X/#hero",
+          "description": "https://yynxxxxx.github.io/Codex-X/#hero",
           "icon": ""
         }
       ]
